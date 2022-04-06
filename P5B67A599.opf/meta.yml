@@ -1,0 +1,85 @@
+id: P5B67A599
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG8898
+  instance_id: http://purl.bdrc.io/resource/IE1KG8898
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P7997
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    27cb9fcd10f6401c99885447d188171c:
+      title: པོད ༩་གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+      volume_number: 9
+      base_file: UT1KG8898_I1KG8976_0000.txt
+      reference: http://purl.bdrc.io/resource/VLB623BDAAFDCD6B0F
+      image_group: I1KG8976
+      quality: Low
+    2284f74ad020467aaa0fe70bacc6a404:
+      title: པོད ༧་གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+      volume_number: 7
+      base_file: UT1KG8898_I1KG8974_0000.txt
+      reference: http://purl.bdrc.io/resource/VLEC88960CFCE1A859
+      image_group: I1KG8974
+      quality: Low
+    a02733a8c9784b4b951f20bbf1bd89b6:
+      title: པོད ༢་གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+      volume_number: 2
+      base_file: UT1KG8898_I1KG8969_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7CA631A3BC28D8C8
+      image_group: I1KG8969
+      quality: Low
+    18bd98c89a2b499f9f1388fd0a7b10d8:
+      title: པོད ༨་གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+      volume_number: 8
+      base_file: UT1KG8898_I1KG8975_0000.txt
+      reference: http://purl.bdrc.io/resource/VL28BFF03CC66B9C0E
+      image_group: I1KG8975
+      quality: Low
+    8510661d7a4a473b8c516e0881889720:
+      title: པོད ༥་གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+      volume_number: 5
+      base_file: UT1KG8898_I1KG8972_0000.txt
+      reference: http://purl.bdrc.io/resource/VLE9EE0244AD27B387
+      image_group: I1KG8972
+      quality: Low
+    89a81d56a7434a9c9aaf0ddb999c4178:
+      title: པོད ༦་གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+      volume_number: 6
+      base_file: UT1KG8898_I1KG8973_0000.txt
+      reference: http://purl.bdrc.io/resource/VL9A075FBEBD18196F
+      image_group: I1KG8973
+      quality: Low
+    94a0493d5a9f42f09924430f7186e912:
+      title: པོད ༡་གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+      volume_number: 1
+      base_file: UT1KG8898_I1KG8968_0000.txt
+      reference: http://purl.bdrc.io/resource/VL61B92739AB54B969
+      image_group: I1KG8968
+      quality: Low
+    01358ecc45a84f27b3b6c4ef7b95ff5f:
+      title: པོད ༣་གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+      volume_number: 3
+      base_file: UT1KG8898_I1KG8970_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD9F8F326511554B2
+      image_group: I1KG8970
+      quality: Low
+    4792adac7131436a8a320f57d027fdc9:
+      title: པོད ༤་གཡག་ཊཱིཀ་（རྫོང་སར་ཁམས་བྱེའི་གློག་ཀླད་པར་མ།）
+      volume_number: 4
+      base_file: UT1KG8898_I1KG8971_0000.txt
+      reference: http://purl.bdrc.io/resource/VL238E7CC3DD7DAB67
+      image_group: I1KG8971
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG8898
+  - http://purl.bdrc.io/resource/MW1KG8898
+  ocr_software: Namsel
+created_at: '2021-12-24T17:28:51.475138'
+last_modified_at: '2021-12-24T17:28:51.475144'
